@@ -270,3 +270,6 @@ Jun 04, 2024 12:48:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint noti
 INFO: Unsupported notification method: $/setTrace
 Jun 04, 2024 12:48:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.06.04 01:23:05 INFO  no build target found for D:\大学三年\大三春\软件工程-Software Engineering\实验\LAB1\Shiyan1\Lab1.java. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 04, 2024 1:23:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\大学三年\大三春\软件工程-Software Engineering\实验\LAB1\Shiyan1\.metals\.reports\metals-full\2024-06-04\r_compiler-error_01-23-05-149.md
